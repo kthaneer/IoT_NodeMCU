@@ -8,7 +8,7 @@ Lab D: NodeMCU sending temperature data to the cloud <br>
 Lab E: Connect the pump <br>
 Lab F: Final Smart Irrigation System <br> 
 
-## ESP8266EX: 
+## ESP8266EX
 
 ![alt text](https://raw.githubusercontent.com/spacehuhn/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
 
