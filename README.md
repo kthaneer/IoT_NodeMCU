@@ -1,6 +1,6 @@
 # IoT Workshop NodeMCU Source Code/Schema's 
 
-# Labs <br>
+## Labs <br>
 Lab A: NodeMCU LED blinking <br>
 Lab B: NodeMCU WiFi connection <br>
 Lab C: AdaFruit IO & creating a dashboard gauge <br>
@@ -8,11 +8,11 @@ Lab D: NodeMCU sending temperature data to the cloud <br>
 Lab E: Connect the pump <br>
 Lab F: Final Smart Irrigation System <br> 
 
-# ESP8266EX: PIN DEFINITION 
+## ESP8266EX: 
 
 ![alt text](https://raw.githubusercontent.com/spacehuhn/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
 
-# The ESP8266EX consists of:
+### The ESP8266EX consists of:
 L106 32-bit RISC microprocessor core based on the Tensilica Xtensa Diamond Standard 106Micro running at 80 MHz <br>
 1 MB instruction RAM <br>
 80 KB user-data RAM <br>
