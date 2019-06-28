@@ -8,8 +8,8 @@
 #include "Adafruit_MQTT_Client.h"
 
 // WiFi Access Point 
-#define WLAN_SSID       "loT_Workshop"
-#define WLAN_PASS       "$Aggezza1"
+#define WLAN_SSID       "Saggezza"
+#define WLAN_PASS       "sagg3zzan0w1r3"
 
 // AdaFruit IO Connection Details 
 #define AIO_SERVER      "io.adafruit.com"
