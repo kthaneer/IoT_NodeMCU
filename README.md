@@ -1,5 +1,15 @@
 # IoT Workshop NodeMCU Source Code/Schema's 
 
+## Useful URLs 
+- Arduino IDE: https://www.arduino.cc/en/Main/Software 
+- VCP Driver: https://tinyurl.com/ma4zx3m 
+- NodeMCU Additional Board URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Resistor Color Code Calculator : https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/
+- AdaFruit Account SignUp: https://accounts.adafruit.com/
+- AdaFruit IO: https://io.adafruit.com/
+- Dan's Project with additional sensors: https://github.com/porrey/plantmonitor
+- Dan's Project AdaFruit IO Dashboard: https://io.adafruit.com/porrey/dashboards/plant-monitor-and-watering-system
+
 ## Labs <br>
 - Lab A: NodeMCU LED blinking <br>
 - Lab B: NodeMCU WiFi connection <br>
